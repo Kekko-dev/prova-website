@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>prova</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 06 Oct 2026 22:10:45 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://Kekko-dev.github.io/prova-website/downloads/prova.md</sparkle:releaseNotesLink>
+            <enclosure url="https://Kekko-dev.github.io/prova-website/downloads/prova.dmg" length="3117791" type="application/octet-stream" sparkle:edSignature="ajt90pJ6c+vmefJeH1r/okRSmvzVyZkBeZdbP0IxDj3J1/DyWNDSEclSSIoU3S/DQ35XH/pxIjVJgool8NQLCQ=="/>
+        </item>
+    </channel>
+</rss>
