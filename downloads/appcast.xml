@@ -3,6 +3,15 @@
     <channel>
         <title>prova</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Sun, 11 Oct 2026 17:00:25 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://Kekko-dev.github.io/prova-website/downloads/prova.md</sparkle:releaseNotesLink>
+            <enclosure url="https://Kekko-dev.github.io/prova-website/downloads/prova.dmg" length="3120890" type="application/octet-stream" sparkle:edSignature="sU46G4/saa2faw3eWt8ulSGIGCTHz2iNoqaeF6FIxLVaGRqvX2pfcqTgQ2tQVpDC4HJz+R7lMWG8oMauZjZaBA=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sun, 11 Oct 2026 16:52:52 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
