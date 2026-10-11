@@ -2,4 +2,3 @@
 
 - Performance improvements.
 - macOS Sequoia & Sonoma optimizations.
--rirpvoa
